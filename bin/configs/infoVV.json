@@ -1,0 +1,28 @@
+{
+    "miniZipUrl": "https://package.32yx.com/ecy_game_small/laya/fruits/qq_res/qq_res_v_z_4_3/resource.zip",
+    "miniZipVersion": "qq_res_v_z_1_0",
+    "appResInfo": "res.v.z.1.1",
+    "serverConf": "wts",
+    "isOpen": true,
+    "gameId": "1049_1050",
+    "platform": "wx_qq_tt",
+    "versionCode": "1001",
+    "token": "c253f698f6c0dd7bb3febe94a7b984fe",
+    "gameInfo": {
+        "bannerId": ["501b371544c74cf2b2bba92d1b2c2715"],
+        "videoIds": ["0b25f36eeb5a432682ecae788303044b","8cf87130459c48559b7b974a0ff892b9"],
+        "intersIds": ["06d508ac511a410f8cedffb07c68bec9"],
+        "nativeIds": ["54478b7ec2b94085b21a5f8424663f36","f51e13d1230a481e83a2de69ba5ff794"],
+        "videoOpen": true,
+        "touchByMistake": 30,
+        "touchByMistakeByLook": true,
+        "autoTipInstallShortcut": true,
+        "nativeInsterAdIsFirst": false,
+        "startHour": 9,
+        "endHour": 19,
+        "openPsAward": 0,
+        "isDY": 0,
+        "openalllevel": 0,
+        "for_pay":1
+    }
+}

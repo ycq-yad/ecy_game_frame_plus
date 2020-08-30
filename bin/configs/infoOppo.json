@@ -1,0 +1,44 @@
+{
+    "miniZipUrl": "https://package.32yx.com/ecy_game_small/laya/fruits/qq_res/qq_res_v_z_4_3/resource.zip",
+    "miniZipVersion": "qq_res_v_z_1_0",
+    "appResInfo": "res.v.z.1.1",
+    "serverConf": "wts",
+    "isOpen": true,
+    "gameId": "1049_1050",
+    "platform": "wx_qq_tt",
+    "versionCode": "1001",
+    "token": "c253f698f6c0dd7bb3febe94a7b984fe",
+    "gameInfo": {
+        "banner": {
+            "GameHomeView": [203979],
+            "SignOppoView": [203980],
+            "GameView": [203981],
+            "SuccessfulEntryOneOppoView": [203986]
+        },
+        "native": {
+            "SuccessfulEntryThreeOppoView": [203996, 204022],
+            "FailEntryTwoOppoView": [203999, 204022],
+            "FailEntryOneView": [204000, 204022],
+            "LevelView": [204001, 204022],
+            "AddPsView": [204002, 204022]
+        },
+        "video": {
+            "freeScene": [204009],
+            "freeGold": [204010],
+            "SignView": [204011],
+            "GameTip": [204013],
+			"GameNext": [204013],
+            "SuccessfulEntryThreeOppoView": [204014],
+            "FailEntryOneView": [204015],
+            "FailEntryTwoOppoView": [204016]
+        },
+		"touchByMistakeByLook": true,
+        "videoId": [204025],
+        "nativeId": [204022],
+        "touchByMistake": 30,
+        "limit1Time": 0,
+        "openPsAward": 0,
+        "openalllevel": 0,
+        "for_pay":1
+    }
+}

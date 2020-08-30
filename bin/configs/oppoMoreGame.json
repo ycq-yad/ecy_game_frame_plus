@@ -1,0 +1,219 @@
+{
+    "allGame": [
+        {
+            "title": "猪场大亨",
+            "id": "1",
+            "icon": "resource/assets/platform/oppo/icon/icon1.png",
+            "package": "com.dl.zcdh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "救救小朋友",
+            "package": "com.dl.ljxd.kyx.nearme.gamecenter",
+            "id": "2",
+            "icon": "resource/assets/platform/oppo/icon/icon2.png"
+        },
+        {
+            "title": "天天斗恶龙",
+            "package": "com.dl.ttdel.kyx.nearme.gamecenter",
+            "id": "3",
+            "icon": "resource/assets/platform/oppo/icon/icon3.png"
+        },
+        {
+            "title": "玩会乒乓球",
+            "package": "com.dl.whppq.kyx.nearme.gamecenter",
+            "id": "4",
+            "icon": "resource/assets/platform/oppo/icon/icon4.png"
+        },
+        {
+            "title": "小姐姐快跑",
+            "id": "18",
+            "icon": "resource/assets/platform/oppo/icon/icon18.png",
+            "package": "com.dl.fkwdxh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "极限碰碰车",
+            "package": "com.dl.jxppc.kyx.nearme.gamecenter",
+            "id": "6",
+            "icon": "resource/assets/platform/oppo/icon/icon6.jpg"
+        },
+        {
+            "title": "百战小炮手",
+            "package": "com.dl.bzxps.kyx.nearme.gamecenter",
+            "id": "7",
+            "icon": "resource/assets/platform/oppo/icon/icon7.png"
+        },
+        {
+            "title": "点杀妖怪",
+            "id": "8",
+            "icon": "resource/assets/platform/oppo/icon/icon8.png",
+            "package": "com.dl.dsyg.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "汽车总动员2",
+            "id": "9",
+            "icon": "resource/assets/platform/oppo/icon/icon9.jpg",
+            "package": "com.dl.qczdy.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "点燃火柴人",
+            "id": "11",
+            "icon": "resource/assets/platform/oppo/icon/icon11.png",
+            "package": "com.dl.drhcr.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人刺激战场",
+            "id": "12",
+            "icon": "resource/assets/platform/oppo/icon/icon12.png",
+            "package": "com.dl.hcrcjjs.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "遇见沐小夏",
+            "id": "14",
+            "icon": "resource/assets/platform/oppo/icon/icon14.png",
+            "package": "com.dl.yjmxx.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之脑洞大开",
+            "id": "15",
+            "icon": "resource/assets/platform/oppo/icon/icon15.png",
+            "package": "com.dl.hcrznddk.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之瞅你咋滴",
+            "id": "16",
+            "icon": "resource/assets/platform/oppo/icon/icon16.png",
+            "package": "com.dl.hcrzqnzd.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "完美飞车",
+            "id": "20",
+            "icon": "resource/assets/platform/oppo/icon/icon20.png",
+            "package": "com.dl.wmfc.kyx.nearme.gamecenter"
+        }
+    ],
+    "guessLike": [
+        {
+            "title": "遇见沐小夏",
+            "id": "14",
+            "icon": "resource/assets/platform/oppo/icon/icon14.png",
+            "package": "com.dl.yjmxx.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之脑洞大开",
+            "id": "15",
+            "icon": "resource/assets/platform/oppo/icon/icon15.png",
+            "package": "com.dl.hcrznddk.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之瞅你咋滴",
+            "id": "16",
+            "icon": "resource/assets/platform/oppo/icon/icon16.png",
+            "package": "com.dl.hcrzqnzd.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "猪场大亨",
+            "id": "1",
+            "icon": "resource/assets/platform/oppo/icon/icon1.png",
+            "package": "com.dl.zcdh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "救救小朋友",
+            "package": "com.dl.ljxd.kyx.nearme.gamecenter",
+            "id": "2",
+            "icon": "resource/assets/platform/oppo/icon/icon2.png"
+        },
+        {
+            "title": "天天斗恶龙",
+            "package": "com.dl.ttdel.kyx.nearme.gamecenter",
+            "id": "3",
+            "icon": "resource/assets/platform/oppo/icon/icon3.png"
+        },
+        {
+            "title": "玩会乒乓球",
+            "package": "com.dl.whppq.kyx.nearme.gamecenter",
+            "id": "4",
+            "icon": "resource/assets/platform/oppo/icon/icon4.png"
+        },
+        {
+            "title": "小姐姐快跑",
+            "id": "18",
+            "icon": "resource/assets/platform/oppo/icon/icon18.png",
+            "package": "com.dl.fkwdxh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "完美飞车",
+            "id": "20",
+            "icon": "resource/assets/platform/oppo/icon/icon20.png",
+            "package": "com.dl.wmfc.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "点杀妖怪",
+            "id": "8",
+            "icon": "resource/assets/platform/oppo/icon/icon8.png",
+            "package": "com.dl.dsyg.kyx.nearme.gamecenter"
+        }
+    ],
+    "banner": [
+        {
+            "title": "遇见沐小夏",
+            "id": "14",
+            "icon": "resource/assets/platform/oppo/icon/icon14.png",
+            "package": "com.dl.yjmxx.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之脑洞大开",
+            "id": "15",
+            "icon": "resource/assets/platform/oppo/icon/icon15.png",
+            "package": "com.dl.hcrznddk.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "火柴人之瞅你咋滴",
+            "id": "16",
+            "icon": "resource/assets/platform/oppo/icon/icon16.png",
+            "package": "com.dl.hcrzqnzd.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "猪场大亨",
+            "id": "1",
+            "icon": "resource/assets/platform/oppo/icon/icon1.png",
+            "package": "com.dl.zcdh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "救救小朋友",
+            "package": "com.dl.ljxd.kyx.nearme.gamecenter",
+            "id": "2",
+            "icon": "resource/assets/platform/oppo/icon/icon2.png"
+        },
+        {
+            "title": "天天斗恶龙",
+            "package": "com.dl.ttdel.kyx.nearme.gamecenter",
+            "id": "3",
+            "icon": "resource/assets/platform/oppo/icon/icon3.png"
+        },
+        {
+            "title": "玩会乒乓球",
+            "package": "com.dl.whppq.kyx.nearme.gamecenter",
+            "id": "4",
+            "icon": "resource/assets/platform/oppo/icon/icon4.png"
+        },
+        {
+            "title": "小姐姐快跑",
+            "id": "18",
+            "icon": "resource/assets/platform/oppo/icon/icon18.png",
+            "package": "com.dl.fkwdxh.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "完美飞车",
+            "id": "20",
+            "icon": "resource/assets/platform/oppo/icon/icon20.png",
+            "package": "com.dl.wmfc.kyx.nearme.gamecenter"
+        },
+        {
+            "title": "点杀妖怪",
+            "id": "8",
+            "icon": "resource/assets/platform/oppo/icon/icon8.png",
+            "package": "com.dl.dsyg.kyx.nearme.gamecenter"
+        }
+       
+    ]
+}
